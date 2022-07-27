@@ -1,0 +1,10 @@
+.grupo {
+    background-color: var(--branco);
+    border-top: solid var(--azul);
+}
+
+.grupo__titulo {
+    font-weight: 400;
+    font-size: 16px;
+    padding: 2em 1em;
+}
